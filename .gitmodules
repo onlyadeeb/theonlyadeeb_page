@@ -1,0 +1,3 @@
+[submodule "themes/charlo"]
+	path = themes/charlo
+	url = https://github.com/charlola/hugo-theme-charlolamode.git
